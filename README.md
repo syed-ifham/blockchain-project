@@ -3,6 +3,9 @@
 A simple and beginner-friendly **Solidity smart contract** that lets users create, update, share, and store notes securely on the blockchain.  
 This project demonstrates ownership, access control, and event-driven smart contract design — making it an excellent starting point for new blockchain developers.
 
+
+<img width="1759" height="861" alt="image" src="https://github.com/user-attachments/assets/1a81c233-5ff9-4df5-92c7-05db2898a11c" />
+
 ---
 
 ## 💡 Project Description
